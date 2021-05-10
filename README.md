@@ -33,18 +33,18 @@ Os testes foram desenvolvido em Javascript com base em NodeJS. Os testes podem s
 Para a instalação das dependencias utilziadas no projeto você pode rodar o comando:
 `yarn add all`
 
-![](https://raw.githubusercontent.com/MaluDev/Atividade_UnidadeTDD/master/Install_Dependecies.png)
+![](https://github.com/MaluDev/Atividade_UnidadeTDD/blob/master/images/Install_Dependecies.png?raw=true)
 
 
 ## Resultado dos Testes
 
 Rodando via `yarn test` :
 
-![](https://raw.githubusercontent.com/MaluDev/Atividade_UnidadeTDD/master/Tests_YarnTest.png)
+![](https://github.com/MaluDev/Atividade_UnidadeTDD/blob/master/images/Tests_YarnTest.png?raw=true)
 
 Rodando via `npm test` :
 
-![](https://raw.githubusercontent.com/MaluDev/Atividade_UnidadeTDD/master/Tests_NpmTest.png)
+![](https://github.com/MaluDev/Atividade_UnidadeTDD/blob/master/images/Tests_NpmTest.png?raw=true)
 
 ### Duvida encontrada no desenvolvimento da atividade:
 Na hora da validação das Palavras, algumas palavras se mantêm a pontuação, elas não passam pelo testes, dado os exemplos:
