@@ -1,0 +1,24 @@
+{
+    "name": "atividade_unidade",
+    "version": "1.0.0",
+    "description": "Atividade_Unidade",
+    "main": "./src/bin/index.js",
+    "scripts": {
+        "test": "node ./src/bin/index.test | tap-spec"
+    },
+    "author": "Maria Luiza Lopes Silva",
+    "license": "MIT",
+    "bin": {
+        "src": "./src/bin/index.js"
+    },
+    "dependencies": {
+        "all": "^0.0.0",
+        "boxen": "^5.0.1",
+        "chalk": "^4.1.1",
+        "tap-spec": "^5.0.0",
+        "yargs": "^17.0.1"
+    },
+    "devDependencies": {
+        "tape": "^5.2.2"
+    }
+}
