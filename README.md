@@ -46,19 +46,6 @@ Rodando via `npm test` :
 
 ![](https://github.com/MaluDev/Atividade_UnidadeTDD/blob/master/images/Tests_NpmTest.png?raw=true)
 
-### Duvida encontrada no desenvolvimento da atividade:
-Na hora da validação das Palavras, algumas palavras se mantêm a pontuação, elas não passam pelo testes, dado os exemplos:
-- Able was I, ere I saw Elba
-- Madam I'm Adam
-- Step on no pets.
-- Top spot!
-- 02/02/2020
-
-Não encontrei uma resolução para que ele passasse pelos testes sem com que a pontuação intervisse nos resultados.
-
-![](https://github.com/MaluDev/Atividade_UnidadeTDD/blob/master/Error_Pontua%C3%A7%C3%A3o.png?raw=true)
-
-
 ## Autor 
 _Maria Luiza Lopes Silva_
 _RA: 1903331_
